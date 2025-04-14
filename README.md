@@ -30,7 +30,7 @@ airbnb-new-user-prediction/
 
 1. Clone this repository:
    ```
-   git clone [your-repo-url]
+   git clone https://github.com/Asmaa6777/Airbnb-NUB/tree/new-branch
    cd AIProjectDSC
    ```
 
