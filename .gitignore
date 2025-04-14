@@ -36,6 +36,8 @@ ENV/
 # Data files
 # Exclude large CSV files that exceed GitHub's file size limit (100MB)
 sessions.csv
+data/raw/sessions.csv
+data/processed/train_processed.csv
 
 # OS specific
 .DS_Store
