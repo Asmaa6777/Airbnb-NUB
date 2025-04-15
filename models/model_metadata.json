@@ -1,0 +1,11 @@
+{
+    "model_type": "LightGBM",
+    "accuracy": 0.6449134477993019,
+    "f1_score": 0.5961891346430714,
+    "training_date": "2025-04-14 19:42:14",
+    "model_file": "../models/final_lightgbm_model.pkl",
+    "feature_count": 195,
+    "train_samples": 170760,
+    "validation_samples": 42691,
+    "classes": [
+        
